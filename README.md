@@ -6,12 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## TODO
 This is a short list of things to be done, continously updated:
-- Publish page to Github pages
 - Set up domain haslelorendamer.no
-- Add React Router
 - Solution for registering points
 - Solution for displaying points
 - Prettify it
+
+## Github pages
+
+This app is deployed to github pages at http://talepre.github.io/haslelorendamer.
+One can deploy a new version by running `yarn deploy`
 
 ## Create React App: Available Scripts
 

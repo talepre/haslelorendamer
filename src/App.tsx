@@ -1,13 +1,20 @@
 import React from 'react';
-import './App.css';
+import { Route, Switch } from 'react-router-dom';
 
-function App() {
+import './App.css';
+import Home from './Home/Home';
+import Pinnekamp from './Pinnekamp/Pinnekamp';
+import Error404 from './Home/Error404';
+
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        Hasle Løren Damer - Fotball
-      </header>
-    </div>
+    <main>
+        <Switch>
+            <Route path="/" component={Home} exact />
+            <Route path="/pinnekamp" component={Pinnekamp} />
+            <Route component={Error404} />
+        </Switch>
+    </main>
   );
 }
 
