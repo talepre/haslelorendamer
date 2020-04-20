@@ -1,6 +1,19 @@
+# Hasle Løren Damer
+
+This project is an application to easy distribute information to the players on Hasle Løren Damer. First of all it should create a possibility to register points to a game calles "pinnekamp". In the future one can think of other integrations, as posting results from matches, displaying work out times, showing when the next match is, etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## TODO
+This is a short list of things to be done, continously updated:
+- Publish page to Github pages
+- Set up domain haslelorendamer.no
+- Add React Router
+- Solution for registering points
+- Solution for displaying points
+- Prettify it
+
+## Create React App: Available Scripts
 
 In the project directory, you can run:
 
