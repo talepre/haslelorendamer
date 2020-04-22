@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/haslelorendamer/precache-manifest.10292a59a37e956a88ab368b844e06a3.js"
+  "/haslelorendamer/precache-manifest.1c9f3962461069d3f6e70b1da89ecff0.js"
 );
 
 self.addEventListener('message', (event) => {
