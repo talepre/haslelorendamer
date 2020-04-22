@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/haslelorendamer/static/css/main.d1b05096.chunk.css",
-    "main.js": "/haslelorendamer/static/js/main.5fbc5eeb.chunk.js",
-    "main.js.map": "/haslelorendamer/static/js/main.5fbc5eeb.chunk.js.map",
+    "main.js": "/haslelorendamer/static/js/main.d717c390.chunk.js",
+    "main.js.map": "/haslelorendamer/static/js/main.d717c390.chunk.js.map",
     "runtime-main.js": "/haslelorendamer/static/js/runtime-main.e2bf2c5f.js",
     "runtime-main.js.map": "/haslelorendamer/static/js/runtime-main.e2bf2c5f.js.map",
     "static/js/2.97c0612b.chunk.js": "/haslelorendamer/static/js/2.97c0612b.chunk.js",
     "static/js/2.97c0612b.chunk.js.map": "/haslelorendamer/static/js/2.97c0612b.chunk.js.map",
     "index.html": "/haslelorendamer/index.html",
-    "precache-manifest.2828bf3b7fa0597be1967fa16348bcbb.js": "/haslelorendamer/precache-manifest.2828bf3b7fa0597be1967fa16348bcbb.js",
+    "precache-manifest.10292a59a37e956a88ab368b844e06a3.js": "/haslelorendamer/precache-manifest.10292a59a37e956a88ab368b844e06a3.js",
     "service-worker.js": "/haslelorendamer/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/haslelorendamer/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.97c0612b.chunk.js.LICENSE.txt": "/haslelorendamer/static/js/2.97c0612b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e2bf2c5f.js",
     "static/js/2.97c0612b.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.5fbc5eeb.chunk.js"
+    "static/js/main.d717c390.chunk.js"
   ]
 }
