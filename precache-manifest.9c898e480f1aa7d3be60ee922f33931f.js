@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f7b350acc756b59511ab002cb5619bd",
+    "revision": "e1e6671a2bd02d100e52f41cabd156ae",
     "url": "/haslelorendamer/index.html"
   },
   {
-    "revision": "da463899d97e68523474",
+    "revision": "11bade08d954b2e30c5c",
     "url": "/haslelorendamer/static/css/main.c0c4cbd7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haslelorendamer/static/js/2.97c0612b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da463899d97e68523474",
-    "url": "/haslelorendamer/static/js/main.5b5345e4.chunk.js"
+    "revision": "11bade08d954b2e30c5c",
+    "url": "/haslelorendamer/static/js/main.07a30e59.chunk.js"
   },
   {
     "revision": "937132163bb23164d118",
